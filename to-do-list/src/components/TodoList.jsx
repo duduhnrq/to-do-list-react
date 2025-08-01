@@ -1,5 +1,6 @@
 import { useState } from "react";
 import TodoItem from "./TodoItem";
+import reactLogo from "../assets/react.svg";
 
 function TodoList() {
   const [tasks, setTasks] = useState([
@@ -181,6 +182,24 @@ function TodoList() {
             </div>
           </div>
         </div>
+      </div>
+      <div className="todo-footer">
+        <p className="text-center text-muted mb-0">
+          Made with {" "}
+          <img
+            src={reactLogo}
+            alt="React logo"
+            className="react-logo"
+          />{" "}
+          by{" "}
+          <a
+            href="https://github.com/duduhnrq"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            duduhnrq
+          </a>
+        </p>
       </div>
     </div>
   );

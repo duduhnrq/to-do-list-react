@@ -282,3 +282,16 @@
 .delete-all:hover {
   color: var(--text-color);
 }
+
+.react-logo {
+  width: 24px;
+  vertical-align: middle;
+  display: inline-block;
+  animation: spin 10s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
