@@ -38,3 +38,16 @@ npm run dev
 ```sh
 http://localhost:5173
 ```
+## Contato
+
+Para perguntas ou colaborações:
+
+- **Email**: eduardohnrque@gmail.com
+
+- **LinkedIn**: [Eduardo Henrique](www.linkedin.com/in/eduardo-hnrque)
+
+- **GitHub**: [duduhnrq](https://github.com/duduhnrq)
+
+---
+
+💻 Developed by [Eduardo Henrique](https://github.com/duduhnrq)
