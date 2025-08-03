@@ -19,6 +19,10 @@ Uma aplicação de lista de tarefas feita com React + Vite, estilizada com CSS m
 - [Bootstrap](https://getbootstrap.com/)
 - CSS
 
+## Live Demo
+
+[To Do List](https://to-do-list-react-pi-rouge.vercel.app)
+
 ## Como rodar o projeto
 
 1. **Clone o repositório:**
